@@ -32,7 +32,7 @@
             <li><a href="#">Material Educacional</a></li>
           </ul>
         </li>
-        <li><a href="#">Page 2</a></li>
+        <li><a href="Mostra_Produto_s_Login.php">Page 2</a></li>
         <li><a href="#">Page 3</a></li>
       </ul>
          <ul class="nav navbar-nav navbar-right">
